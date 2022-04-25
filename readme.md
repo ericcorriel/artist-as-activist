@@ -128,7 +128,7 @@ This course takes the student on a historical journey through different art and 
 	- The Washington Times: [Life without the arts? Top 10 crazy grants given by the NEA and NEH](https://www.washingtontimes.com/news/2017/mar/17/life-without-arts-10-crazy-grants-given-nea-neh/)
 	- 🎦 BBC Documentary: [How Santiago Sierra approaches art making](https://vimeo.com/41418219)
 	- Ai Weiwei documentaries *[Never Sorry](https://www.youtube.com/watch?v=WIdlt3j9nKA)* and *[The Fake Case](https://www.youtube.com/watch?v=tBhuMF-LczA)*
-	- The Start Podcast: [Ai Weiwei on how he got his start](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast)
+	- The Start podcast: [Ai Weiwei on how he got his start](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast)
 
 ## Technology
 - ### Forensic Architecture
@@ -158,9 +158,9 @@ This course takes the student on a historical journey through different art and 
 	- 🖼 *[URME Surveillance](http://leoselvaggio.com/urmesurveillance)*, [Leo Selvaggio](http://leoselvaggio.com/)
 	- 🖼 *[Data Pools](https://ahprojects.com/datapools/)*, [Adam Harvey](https://en.wikipedia.org/wiki/Adam_Harvey_(artist))
 - ### Dive Deeper
-	- [forensic-architecture.org/](https://forensic-architecture.org/)
+	- [forensic-architecture.org](https://forensic-architecture.org/)
 	- The New Inquiry: [Invisible Images (Your Pictures Are Looking at You), by Trevor Paglen](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
-	- [Leaders in Software and Art presenters list](http://www.softwareandart.com/presenters/)
+	- Leaders in Software and Art: [Presenters list](http://www.softwareandart.com/presenters/)
 	
 ## Historical Monuments
 - ### United Daughters of the Confederacy
@@ -168,7 +168,7 @@ This course takes the student on a historical journey through different art and 
 	- [List of Confederate monuments and memorials](https://en.wikipedia.org/wiki/List_of_Confederate_monuments_and_memorials?wprov=srpw1_0)
 	- [Wikipedia](https://en.wikipedia.org/wiki/United_Daughters_of_the_Confederacy)
 - ### Augustus Saint-Gaudens
-	- *[The Robert Gould Shaw Memorial](https://en.wikipedia.org/wiki/Robert_Gould_Shaw_Memorial)*
+	- 🖼 *[The Robert Gould Shaw Memorial](https://en.wikipedia.org/wiki/Robert_Gould_Shaw_Memorial)*
 	- [List of African-American military monuments and memorials](https://en.wikipedia.org/wiki/Category:African-American_military_monuments_and_memorials)
 	- [Wikipedia](https://en.wikipedia.org/wiki/Augustus_Saint-Gaudens)
 - ### Robert E. Lee Memorial Charlottesville, VA
@@ -182,7 +182,7 @@ This course takes the student on a historical journey through different art and 
 	- [Wikipedia](https://en.wikipedia.org/wiki/Aclu)
 - ### Dive Deeper
 	- 🎦 [Mayor Mitch Landeau, "We Must Recognize Significance Of Removing Confederate Monuments"](https://www.youtube.com/watch?v=j81MkNgnXuY&t=388s)	
-	- 🎦 Watch feature film [Glory](https://www.youtube.com/watch?v=Ny8KGUqTNkM)
+	- 🎦 Watch feature film *[Glory](https://www.youtube.com/watch?v=Ny8KGUqTNkM)*
 	
 ## Contemporary Monuments
 - ### Paul Ramírez Jonas
@@ -202,14 +202,14 @@ This course takes the student on a historical journey through different art and 
 - ### She Built NYC
 	+ 🎦 [Introduction to Shirly Chisholm](https://www.youtube.com/watch?time_continue=1&v=gyEy_RRIEhE&feature=emb_logo)
 	+ 🖼 [Shirly Chisholm monument](https://www.nytimes.com/2019/04/23/arts/design/shirley-chisholm-monument-prospect-park.html) designed by [Amanda Williams](https://awstudioart.com) and [Olalekan Jeyifous](https://www.instagram.com/kidcadaver)
-	+ [Wikipedia](https://women.nyc/she-built-nyc/)
+	+ [She Built website](https://women.nyc/she-built-nyc/)
 - ### Suffragettes Monument in NYC
 	+ New York Times: [Is a Planned Monument to Women’s Rights Racist?](https://www.nytimes.com/2019/01/17/nyregion/is-a-planned-monument-to-womens-rights-racist.html)
 - ### Robert E. Lee statue after Black Lives Matter protests
-	+ 🎦 [Robert e Lee statue vandalism by by protesters](https://www.youtube.com/watch?v=-odNB4FgIu4)
+	+ 🎦 [Robert E. Lee statue vandalism by protesters](https://www.youtube.com/watch?v=-odNB4FgIu4)
 - ### Khinde Wiley
-	+ 🎦🖼 *[Rumors of War [sculpture]](https://www.youtube.com/watch?v=HhHq73olXGw)*
-	+ 🖼 *[Rumors of War [paintings]](https://kehindewiley.com/works/rumors-of-war/)*
+	+ 🎦🖼 [*Rumors of War* [sculpture]](https://www.youtube.com/watch?v=HhHq73olXGw)
+	+ 🖼 [*Rumors of War* [paintings]](https://kehindewiley.com/works/rumors-of-war/)*
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Kehinde_Wiley)
 - ### Dive Deeper
 	+ Podcast: [Monument Lab](https://podcasts.apple.com/us/podcast/monument-lab/id1437302452)
@@ -233,8 +233,8 @@ This course takes the student on a historical journey through different art and 
 - ### tiny trump
 	+ 🎦 [Introduction](https://www.youtube.com/watch?v=lIduAY-Ybo8)
 	+ 🎦 [Facebook ad](https://vimeo.com/509655995/d8d0566aa9)
-	+ [DIY Documentation](https://www.youtube.com/watch?v=6fFsl9WC528)
-	+ 🎦 [Project website: maketrumptiny.com](https://maketrumptiny.com)
+	+ 🎦 [DIY Documentation](https://www.youtube.com/watch?v=6fFsl9WC528)
+	+ 🎦 Project website: [maketrumptiny.com](https://maketrumptiny.com)
 - ### Other Notable Projects
 	+ 🎦🖼 *[Subway Therapy](https://www.nytimes.com/2016/11/11/nyregion/subway-notes-offer-a-form-of-therapy.html)*, Matthew Chavez
 	+ 🎦🖼 *[AIDS Quilt](https://www.youtube.com/watch?time_continue=3&v=OMJQ3kQqNI4&feature=emb_logo)*
@@ -299,9 +299,8 @@ This course takes the student on a historical journey through different art and 
 	+ 🖼 [Poster Boy images](https://www.flickr.com/photos/posterboynyc)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Poster_Boy_(street_artist))
 ### Dive Deeper
-	* 🎦 [Watch *Network,* 1976 Best Picture Oscar winner (2h)](https://www.youtube.com/watch?v=bDzr4BaNU-A)
-	+ 🎦 [Watch The Trial of *The Chicago 7* on Netflix, which details the phase in Abbie Hoffman’s life before he wrote “Steal this Book”](https://www.netflix.com/title/81043755?source=35)
-	+ [Read all or parts of “Steal this Book” by Abbie Hoffman](https://semantikon.com/StealThisBookbyAbbieHoffman.pdf)
+	+ 🎦 [Watch *Network*, 1976 Best Picture Oscar winner](https://www.youtube.com/watch?v=bDzr4BaNU-A)
+
 
 ## Destruction
 - ### Mary Richardson
