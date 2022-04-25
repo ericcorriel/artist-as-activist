@@ -23,15 +23,18 @@ This course takes the student on a historical journey through different art and 
 	+ [Sound Suits: Art 21 video](https://art21.org/watch/extended-play/nick-cave-thick-skin-short/)
 	+ [Big Story Video](https://www.youtube.com/watch?time_continue=6&v=zDx99Ljo6YE&feature=emb_logo)
 	+ [Sound Suits public performance video](https://www.youtube.com/watch?reload=9&v=bQGJPSqWrOQ&feature=emb_logo)
-- ### [Pussy Riot](https://en.wikipedia.org/wiki/Pussy_Riot)
+- ### Pussy Riot
+	+ [Wikipedia](https://en.wikipedia.org/wiki/Pussy_Riot)
 	+ [Punk Prayer trailer](https://www.youtube.com/watch?v=E8K8WRRzbQs)
 	+ [Original performance in Cathedral of Christ the Saviour, Moscow](https://www.youtube.com/watch?v=PN5inCayfnM)
 	+ [Pussy Riot protesting in Socchi during the Olympic Games](https://www.youtube.com/watch?v=FFrZfluKDrc)
-- ### [Dread Scott](https://en.wikipedia.org/wiki/Dread_Scott)
+- ### Dread Scott
+	+ [Wikipedia](https://en.wikipedia.org/wiki/Dread_Scott)
 	+ *[On The Impossibility Of Freedom In A Country Founded On Slavery And Genocide performance](https://www.youtube.com/watch?v=rJ1gJjnwWQo)*
 	+ [Dread Scott talking about the performance](https://youtu.be/GOQQe5qad8E?t=4311)
 	+ *[Slave Rebellion Reenactment](https://www.youtube.com/watch?time_continue=1&v=v2to3S0iabE&feature=emb_logo)*
-- ### [Emma Sulkowicz](https://en.wikipedia.org/wiki/Emma_Sulkowicz)
+- ### Emma Sulkowicz
+	+ [Wikipedia](https://en.wikipedia.org/wiki/Emma_Sulkowicz)
 	+ [Emma Sulkowicz: "Carry That Weight"](https://www.youtube.com/watch?v=l9hHZbuYVnU)
 	+ Hyperallergic: [Two Weeks Into Performance, Columbia Student Discusses the Weight of Her Mattress](https://hyperallergic.com/149368/two-weeks-into-performance-columbia-student-discusses-the-weight-of-her-mattress/)
 	+ NY Times: [In a Mattress, a Lever for Art and Political Protest](https://www.nytimes.com/2014/09/22/arts/design/in-a-mattress-a-fulcrum-of-art-and-political-protest.html)
