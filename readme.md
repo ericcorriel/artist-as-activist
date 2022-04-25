@@ -2,7 +2,8 @@
 
 This course takes the student on a historical journey through different art and activism movements starting in the 19th Century with women fighting for the right to vote and ending with the Black Lives Matter movement of the recent past. We will examine various creative avenues by which artists strive to bring about social change–performance art, street art, tech art, participatory art, controversial art, subversive art. Significant attention will be paid to understanding the dynamic between the artist, the work, the media, and the public’s perception of the work. In conjunction with this historical survey, students will also create activist work for a “real-life” non-profit organization chosen by the instructor. This course functions as both historical survey and contemporary workshop with the ultimate aim of giving students the knowledge and experience they need to direct their creative practice towards supporting causes of their choosing.
 
-## Week 1: The Suffragettes
+## Activism in the 19th Century, A Historical Example: The Suffragettes
+
 - [Women's suffrage in the United Kingdom](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_Kingdom)
 - [Emmeline Pankhurst](https://en.wikipedia.org/wiki/Emmeline_Pankhurst)
 - [Mary Richardson slashes Diego Velaszuez’s The Toilet of Venus at the National Gallery](https://en.wikipedia.org/wiki/Mary_Richardson)
@@ -14,20 +15,20 @@ This course takes the student on a historical journey through different art and 
 - [Ida B. Wells](https://www.youtube.com/watch?v=fygjGXnaV9w)
 
 
-## Week 2: Performance
-- [Nick Cave](https://en.wikipedia.org/wiki/Nick_Cave_(performance_artist)
+## Performance
+- ### [Nick Cave](https://en.wikipedia.org/wiki/Nick_Cave_(performance_artist))
 	+ [Sound Suits: Art 21 video](https://art21.org/watch/extended-play/nick-cave-thick-skin-short/)
 	+ [Big Story Video](https://www.youtube.com/watch?time_continue=6&v=zDx99Ljo6YE&feature=emb_logo)
 	+ [Sound Suits public performance video](https://www.youtube.com/watch?reload=9&v=bQGJPSqWrOQ&feature=emb_logo)
-- [Pussy Riot](https://en.wikipedia.org/wiki/Pussy_Riot)
+- ### [Pussy Riot](https://en.wikipedia.org/wiki/Pussy_Riot)
 	+ [Punk Prayer trailer](https://www.youtube.com/watch?v=E8K8WRRzbQs)
 	+ [Original performance in Cathedral of Christ the Saviour, Moscow](https://www.youtube.com/watch?v=PN5inCayfnM)
 	+ [Pussy Riot protesting in Socchi during the Olympic Games](https://www.youtube.com/watch?v=FFrZfluKDrc)
-- [Dread Scott](https://en.wikipedia.org/wiki/Dread_Scott)
+- ### [Dread Scott](https://en.wikipedia.org/wiki/Dread_Scott)
 	+ *[On The Impossibility Of Freedom In A Country Founded On Slavery And Genocide performance](https://www.youtube.com/watch?v=rJ1gJjnwWQo)*
 	+ [Dread Scott talking about the performance](https://youtu.be/GOQQe5qad8E?t=4311)
 	+ *[Slave Rebellion Reenactment](https://www.youtube.com/watch?time_continue=1&v=v2to3S0iabE&feature=emb_logo)*
-- [Emma Sulkowicz](https://en.wikipedia.org/wiki/Emma_Sulkowicz)
+- ### [Emma Sulkowicz](https://en.wikipedia.org/wiki/Emma_Sulkowicz)
 	+ [Emma Sulkowicz: "Carry That Weight"](https://www.youtube.com/watch?v=l9hHZbuYVnU)
 	+ Hyperallergic: [Two Weeks Into Performance, Columbia Student Discusses the Weight of Her Mattress](https://hyperallergic.com/149368/two-weeks-into-performance-columbia-student-discusses-the-weight-of-her-mattress/)
 	+ NY Times: [In a Mattress, a Lever for Art and Political Protest](https://www.nytimes.com/2014/09/22/arts/design/in-a-mattress-a-fulcrum-of-art-and-political-protest.html)
@@ -37,7 +38,7 @@ This course takes the student on a historical journey through different art and 
 	+ [Did Emma Sulkowicz Get Redpilled? At the very least, she’s found a new social set](https://www.thecut.com/2019/10/did-emma-sulkowicz-mattress-performance-get-redpilled.html)
 	
 
-## Week 3: Street Art
+## Street Art
 - [Banksy](https://en.wikipedia.org/wiki/Banksy)
 	+ [Introduction](https://www.youtube.com/v=sSsjC-F9bwk&feature=emb_logo)
 	+ [Interventions on the wall separating Israel and Palenstine on the West Bank](https://www.youtube.com/watch?time_continue=12&v=Ag-iTSQnigY&feature=emb_logo)
@@ -62,7 +63,7 @@ This course takes the student on a historical journey through different art and 
 	- [Exit Through The Gift Shop](https://www.youtube.com/watch?v=0ViUZzp6zgM)
 
 
-## Week 4: Controversy
+## Controversy
 - [Andres Serrano](https://en.wikipedia.org/wiki/Andres_Serrano)
 	- [Introduction](https://www.youtube.com/watch?v=bAG3nGyISe0)
 	- *[Piss Christ](https://www.youtube.com/watch?v=LNJIloJiBKE&)*
@@ -108,7 +109,7 @@ This course takes the student on a historical journey through different art and 
 	- Ai Weiwei documentaries [Never Sorry](https://www.youtube.com/watch?v=WIdlt3j9nKA) and [The Fake Case](https://www.youtube.com/watch?v=tBhuMF-LczA)
 	- Ai Weiwei on the Guardian's [The Start podcast](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast) talking about how he got his start
 
-## Week 5: Technology
+## Technology
 - [Forensic Architecture](https://en.wikipedia.org/wiki/Forensic_Architecture)
 	- [Introduction](https://www.youtube.com/watch?v=ehvtpGzF1r4&feature=emb_logo)
 	- *[Analysis of Tear Gas in Plaza de La Dignidad I](https://vimeo.com/492560553)*
@@ -136,7 +137,7 @@ This course takes the student on a historical journey through different art and 
 	- [The New Inquiry: Invisible Images (Your Pictures Are Looking at You), by Trevor Paglen](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
 	- [Leaders in Software and Art presenters list](http://www.softwareandart.com/presenters/)
 	
-## Week 6: The Battle for the Commons
+## The Battle for the Commons
 - [United Daughters of the Confederacy](https://en.wikipedia.org/wiki/United_Daughters_of_the_Confederacy)
 	- [Introduction](https://www.youtube.com/watch?v=dOkFXPblLpU)
 	- [List of Confederate monuments and memorials](https://en.wikipedia.org/wiki/List_of_Confederate_monuments_and_memorials?wprov=srpw1_0)
@@ -154,7 +155,7 @@ This course takes the student on a historical journey through different art and 
 	- [Mayor Mitch Landeau, "We Must Recognize Significance Of Removing Confederate Monuments"](https://www.youtube.com/watch?v=j81MkNgnXuY&t=388s)	
 	- Watch feature film [Glory](https://www.youtube.com/watch?v=Ny8KGUqTNkM)
 	
-## Week 7: Monument
+## Monument
 - [Paul Ramírez Jonas](https://en.wikipedia.org/wiki/Paul_Ramirez_Jonas)
 	+ [Introduction](https://www.youtube.com/watch?time_continue=1&v=W-oJL5i4hXc)
 	+ *[Publicar](http://www.paulramirezjonas.com/selected/new_index.php#20&30_2009&sub206&06_Publicar%20I,%20II,%20III)*
@@ -178,7 +179,7 @@ This course takes the student on a historical journey through different art and 
 	+ Keep up with the [Monument Lab podcast](https://podcasts.apple.com/us/podcast/monument-lab/id1437302452)
 	+ [NY Times: For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
 	
-## Week 8: Participation
+## Participation
 - [Shepard Fairey](https://en.wikipedia.org/wiki/Shepard_Fairey)
 	+ [Introduction](https://www.youtube.com/watch?&v=rcSBr4ZKmrQ)
 	+ [Where it [OBEY] all started](http://thegiant.org/wiki/index.php/Stickers)
@@ -199,7 +200,7 @@ This course takes the student on a historical journey through different art and 
 	+ *[AIDS Quilt](https://www.youtube.com/watch?time_continue=3&v=OMJQ3kQqNI4&feature=emb_logo)*
 	+ *[In America](https://news.artnet.com/art-world/suzanne-brennan-firstenberg-covid-flag-project-2016290)*, [Susanne Brennan Firstenberg](https://en.wikipedia.org/wiki/Suzanne_Brennan_Firstenberg)
 	
-## Week 10: Propaganda, Symbols, and Trolls
+## Propaganda, Symbols, and Trolls
 - [Introduction to Propaganda](https://www.youtube.com/watch?v=-WpFzTplp28)
 - [History of the Swastika](https://www.youtube.com/watch?v=tuB2L6SN6Lg)[For Freedoms](https://en.wikipedia.org/wiki/For_Freedoms)
 	+ [Video introduction](https://www.youtube.com/watch?v=YteKV5BkI3A&t=1s)
@@ -217,7 +218,7 @@ This course takes the student on a historical journey through different art and 
 	+ [Truth Trolls](https://sva.instructure.com/courses/1630074/pages/optional-listen-truth-trolls?module_item_id=77739233), RadioLab
 	+ [Feels Good Man Documentary](https://www.youtube.com/watch?v=_GjwLS-fgx0)
 
-## Week 11: Subversion
+## Subversion
 ### Sports
 - [Colin Kaepernick](https://en.wikipedia.org/wiki/Colin_Kaepernick)
 	+ [Eric Reed: Why Colin Kaepernick and I Decided to Take a Knee](https://www.nytimes.com/2017/09/25/opinion/colin-kaepernick-football-protests.html)
@@ -252,7 +253,7 @@ This course takes the student on a historical journey through different art and 
 	+ [Read all or parts of “Steal this Book” by Abbie Hoffman](https://semantikon.com/StealThisBookbyAbbieHoffman.pdf)
 	+ [Watch The Trial of the Chicago 7 on Netflix, which details the phase in Abbie Hoffman’s life before he wrote “Steal this Book”](https://www.netflix.com/title/81043755?source=35)
 
-##Week 12: Destruction
+## Destruction
 - [Mary Richardson](https://en.wikipedia.org/wiki/Mary_Richardson)
 	- [In 1914, a Feminist Attacked a Velázquez Nude with a Meat Cleaver](https://www.artsy.net/article/artsy-editorial-1914-feminist-attacked-velazquez-nude-meat-cleaver)
 - [Ai Weiwei](https://en.wikipedia.org/wiki/Ai_Weiwei)
@@ -284,7 +285,7 @@ This course takes the student on a historical journey through different art and 
 	- Wikipedia: [Vandalism of Art](https://en.wikipedia.org/wiki/Vandalism_of_art)
 	- Chris Burden documentary, [Burden](https://www.youtube.com/watch?v=sTfXxjoBzHk)
 
-## Week 13: City
+## City
 - [Theaster Gates](https://en.wikipedia.org/wiki/Theaster_Gates)
 	+ [Art 21 video introduction](https://art21.org/watch/art-in-the-twenty-first-century/s8/theaster-gates-in-chicago-segment/)
 	+ [Theaster Gates: How to revive a neighborhood: with imagination, beauty and art](https://www.youtube.com/watch?v=S9ry1M7JlyE)
@@ -308,7 +309,7 @@ This course takes the student on a historical journey through different art and 
 	+ Watch [Theaster Gates’ TED talk](https://www.youtube.com/watch?v=S9ry1M7JlyE) on how to revive a neighborhood (16’56”)
 
 
-## Week 14: Satire
+## Satire
 - [The Yes Men](https://en.wikipedia.org/wiki/The_Yes_Men)
 	+ Introduction [The Yes Men Are Revolting, trailer](https://www.youtube.com/watch?v=8tSEjepPNgc)
 	+ [Bhopal Disaster - BBC](https://www.youtube.com/watch?v=LiWlvBro9eI)
