@@ -299,7 +299,7 @@ This course takes the student on a historical journey through different art and 
 	+ 🖼 [Poster Boy images](https://www.flickr.com/photos/posterboynyc)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Poster_Boy_(street_artist))
 ### Dive Deeper
-	+ 🎦 [Watch *Network*, 1976 Best Picture Oscar winner](https://www.youtube.com/watch?v=bDzr4BaNU-A)
+	+ 🎦 [Watch Network, 1976 Best Picture Oscar winner](https://www.youtube.com/watch?v=bDzr4BaNU-A)
 
 
 ## Destruction
