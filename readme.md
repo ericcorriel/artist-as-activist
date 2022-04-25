@@ -1,22 +1,25 @@
-#Artist as activist
+# Artist as activist
 
 This course takes the student on a historical journey through different art and activism movements starting in the 19th Century with women fighting for the right to vote and ending with the Black Lives Matter movement of the recent past. We will examine various creative avenues by which artists strive to bring about social change–performance art, street art, tech art, participatory art, controversial art, subversive art. Significant attention will be paid to understanding the dynamic between the artist, the work, the media, and the public’s perception of the work. In conjunction with this historical survey, students will also create activist work for a “real-life” non-profit organization chosen by the instructor. This course functions as both historical survey and contemporary workshop with the ultimate aim of giving students the knowledge and experience they need to direct their creative practice towards supporting causes of their choosing.
 
 ## Activism in the 19th Century, A Historical Example: The Suffragettes
-
+### Movements
 - [Women's suffrage in the United Kingdom](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_Kingdom)
-- [Emmeline Pankhurst](https://en.wikipedia.org/wiki/Emmeline_Pankhurst)
-- [Mary Richardson slashes Diego Velaszuez’s The Toilet of Venus at the National Gallery](https://en.wikipedia.org/wiki/Mary_Richardson)
 - [Women's suffrage in the United States](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_States)
+### Activists
+- [Emmeline Pankhurst](https://en.wikipedia.org/wiki/Emmeline_Pankhurst)
 - [Susan B. Anthony](https://en.wikipedia.org/wiki/Susan_B._Anthony)
 - [Sojourner Truth](https://www.youtube.com/watch?v=0sn8CUyvG2k)
 - [Alice Paul](https://en.wikipedia.org/wiki/Alice_Paul)
-- [Women's Suffrage Parade of 1913](https://www.theatlantic.com/photo/2013/03/100-years-ago-the-1913-womens-suffrage-parade/100465/)
 - [Ida B. Wells](https://www.youtube.com/watch?v=fygjGXnaV9w)
+### Events
+- [Mary Richardson slashes Diego Velaszuez’s The Toilet of Venus at the National Gallery](https://en.wikipedia.org/wiki/Mary_Richardson)
+- [Women's Suffrage Parade of 1913](https://www.theatlantic.com/photo/2013/03/100-years-ago-the-1913-womens-suffrage-parade/100465/)
 
 
 ## Performance
-- ### [Nick Cave](https://en.wikipedia.org/wiki/Nick_Cave_(performance_artist))
+- ### Nick Cave
+	+ [Wikipedia](https://en.wikipedia.org/wiki/Nick_Cave_(performance_artist))
 	+ [Sound Suits: Art 21 video](https://art21.org/watch/extended-play/nick-cave-thick-skin-short/)
 	+ [Big Story Video](https://www.youtube.com/watch?time_continue=6&v=zDx99Ljo6YE&feature=emb_logo)
 	+ [Sound Suits public performance video](https://www.youtube.com/watch?reload=9&v=bQGJPSqWrOQ&feature=emb_logo)
