@@ -70,11 +70,11 @@ This course takes the student on a historical journey through different art and 
 - ### Robert E. Lee monument in Charlottesville, VA
 	+ 🖼 [The monument](https://en.wikipedia.org/wiki/Robert_E._Lee_Monument_(Richmond,_Virginia)#/media/File:Statue_Robert_E._Lee_Richmond_(cropped).JPG)
 	+ [And its defacement](https://www.youtube.com/watch?v=-odNB4FgIu4)
+	- 🎦🖼 [Black Lives Matter protesters project onto the Robert E. Lee monument](https://www.youtube.com/watch?v=Pmk29gVfBpI)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Robert_E._Lee_Monument_(Richmond,_Virginia))
 - ### Dive Deeper
 	- 🎦 [*Style Wars* (1983)](https://www.youtube.com/watch?v=f9KxbaSU-Eo)
 	- 🎦🖼 *[Subway Therapy](https://www.youtube.com/watch?v=Fj2sJioplnU)*
-	- 🎦🖼 [Black Lives Matter protesters project onto the Robert E. Lee monument](https://www.youtube.com/watch?v=Pmk29gVfBpI)
 	- 🎦 *[Exit Through The Gift Shop](https://www.youtube.com/watch?v=0ViUZzp6zgM)*
 
 
@@ -91,7 +91,7 @@ This course takes the student on a historical journey through different art and 
 	- 🖼 *[160 cm Line Tattooed on 4 People](https://publicdelivery.org/santiago-serra-tattoos/)*
 	- 🎦🖼 *[7 forms measuring 600 × 60 × 60cm constructed to be held horizontal to a wall](https://kaldorartprojects.org.au/projects/project-22-santiago-sierra/)*
 	- 🎦🖼 *[La Quema Del Ninot](https://vimeo.com/467295191)*
-	- The Guardian: *[A protest against the banalisation of the Holocaust](https://www.theguardian.com/world/2006/mar/14/arts.secondworldwar)*
+	- 🖼 The Guardian: *[A protest against the banalisation of the Holocaust](https://www.theguardian.com/world/2006/mar/14/arts.secondworldwar)*
 	- [Wikipedia](https://en.wikipedia.org/wiki/Santiago_Sierra)
 - ### Dread Scott
 	+ 🖼 [What is the Proper Way to Display a U.S. Flag?](https://www.dreadscott.net/portfolio_page/what-is-the-proper-way-to-display-a-us-flag/)
@@ -115,10 +115,10 @@ This course takes the student on a historical journey through different art and 
 	- [Wikipedia](https://en.wikipedia.org/wiki/Ai_Wei_Wei)
 - ### Dana Schutz
 	- 🎦 [Introduction](https://www.youtube.com/watch?v=K9eR-04teD4)
-	- 🎦 [Aug. 28, 1955 - Emmett Till, Age 14, Abducted and Murdered](https://www.youtube.com/watch?v=SYiI7j6GW68)
+	- 🎦 [Emmett Till, Age 14, Abducted and Murdered, Aug. 28, 1955](https://www.youtube.com/watch?v=SYiI7j6GW68)
 	- 🖼 *[Open Casket](https://en.wikipedia.org/wiki/Open_Casket)*
 	- 🎦 Vice News: [Interview with Parker Bright](https://video.vice.com/en_in/video/a-painting-of-emmett-tills-mangled-body-has-become-the-center-of-a-heated-debate/58dabbab91d237b4148aa34f)
-	- [Artist Hannah Black's Open Letter to Whitney Museum demanding the removal and destruction of Open Casket](https://www.artnews.com/artnews/news/the-painting-must-go-hannah-black-pens-open-letter-to-the-whitney-about-controversial-biennial-work-7992/)
+	- [Artist Hannah Black's Open Letter to Whitney Museum demanding the removal and destruction of *Open Casket*](https://www.artnews.com/artnews/news/the-painting-must-go-hannah-black-pens-open-letter-to-the-whitney-about-controversial-biennial-work-7992/)
 	- [Open Letter to ICA Boston in support of exhibiting Open Casket](https://artreview.com/news-4-aug-2017-open-letter-in-defence-of-dana-schutz/)
 	- Schutz responds in [Art News](https://news.artnet.com/art-world/dana-schutz-responds-to-the-uproar-over-her-emmett-till-painting-900674) and the [New York Times](https://www.nytimes.com/2017/03/21/arts/design/painting-of-emmett-till-at-whitney-biennial-draws-protests.html?_r=0)
 	- [Wikipedia](https://en.wikipedia.org/wiki/Dana_Schutz)
@@ -127,8 +127,8 @@ This course takes the student on a historical journey through different art and 
 	- The Washington Post: [Behind the right’s loathing of the NEA: Two ‘despicable’ exhibits almost 30 years ago](https://www.washingtonpost.com/news/morning-mix/wp/2017/03/20/behind-the-loathing-of-the-national-endowment-for-the-arts-a-pair-of-despicable-exhibits-almost-30-years-ago/)
 	- The Washington Times: [Life without the arts? Top 10 crazy grants given by the NEA and NEH](https://www.washingtontimes.com/news/2017/mar/17/life-without-arts-10-crazy-grants-given-nea-neh/)
 	- 🎦 BBC Documentary: [How Santiago Sierra approaches art making](https://vimeo.com/41418219)
-	- Ai Weiwei documentaries *[Never Sorry](https://www.youtube.com/watch?v=WIdlt3j9nKA)* and *[The Fake Case](https://www.youtube.com/watch?v=tBhuMF-LczA)*
-	- The Start podcast: [Ai Weiwei on how he got his start](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast)
+	- 🎦 Ai Weiwei documentaries *[Never Sorry](https://www.youtube.com/watch?v=WIdlt3j9nKA)* and *[The Fake Case](https://www.youtube.com/watch?v=tBhuMF-LczA)*
+	- 🎙 The Start podcast: [Ai Weiwei on how he got his start](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast)
 
 # Technology
 - ### Forensic Architecture
@@ -154,13 +154,13 @@ This course takes the student on a historical journey through different art and 
 	- 🖼 [The Black Monuments Project](https://black-monuments.mic.com/)
 	- 🖼 *[Ice Spy](https://icespy.org/)*, [Kyle McDonald](https://en.wikipedia.org/wiki/Kyle_McDonald)
 	- 🖼 *[Follower](https://lauren-mccarthy.com/Follower)*, [Lauren McCarthy](https://en.wikipedia.org/wiki/Lauren_McCarthy)
-	- 🎦🖼 *[optimization of parenting, part 2](https://vimeo.com/43489750?embedded=true&source=vimeo_logo&owner=1739885)*, [Addie Wagenknecht](https://en.wikipedia.org/wiki/Addie_Wagenknecht)
+	- 🎦🖼 *[The Optimization of Parenting, part 2](https://vimeo.com/43489750?embedded=true&source=vimeo_logo&owner=1739885)*, [Addie Wagenknecht](https://en.wikipedia.org/wiki/Addie_Wagenknecht)
 	- 🖼 *[URME Surveillance](http://leoselvaggio.com/urmesurveillance)*, [Leo Selvaggio](http://leoselvaggio.com/)
 	- 🖼 *[Data Pools](https://ahprojects.com/datapools/)*, [Adam Harvey](https://en.wikipedia.org/wiki/Adam_Harvey_(artist))
 - ### Dive Deeper
 	- [forensic-architecture.org](https://forensic-architecture.org/)
 	- The New Inquiry: [Invisible Images (Your Pictures Are Looking at You), by Trevor Paglen](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
-	- Leaders in Software and Art: [Presenters list](http://www.softwareandart.com/presenters/)
+	- Leaders in Software and Art: [Previous presenters list](http://www.softwareandart.com/presenters/)
 	
 # Historical Monuments
 - ### United Daughters of the Confederacy
@@ -205,14 +205,12 @@ This course takes the student on a historical journey through different art and 
 	+ [She Built website](https://women.nyc/she-built-nyc/)
 - ### Suffragettes Monument in NYC
 	+ New York Times: [Is a Planned Monument to Women’s Rights Racist?](https://www.nytimes.com/2019/01/17/nyregion/is-a-planned-monument-to-womens-rights-racist.html)
-- ### Robert E. Lee statue after Black Lives Matter protests
-	+ 🎦 [Robert E. Lee statue vandalism by protesters](https://www.youtube.com/watch?v=-odNB4FgIu4)
 - ### Khinde Wiley
 	+ 🎦🖼 [*Rumors of War* [sculpture]](https://www.youtube.com/watch?v=HhHq73olXGw)
-	+ 🖼 [*Rumors of War* [paintings]](https://kehindewiley.com/works/rumors-of-war/)*
+	+ 🖼 [*Rumors of War* [paintings]](https://kehindewiley.com/works/rumors-of-war/)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Kehinde_Wiley)
 - ### Dive Deeper
-	+ Podcast: [Monument Lab](https://podcasts.apple.com/us/podcast/monument-lab/id1437302452)
+	+ 🎙 Podcast: [Monument Lab](https://podcasts.apple.com/us/podcast/monument-lab/id1437302452)
 	+ New York Times: [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
 	
 # Participation
@@ -223,7 +221,7 @@ This course takes the student on a historical journey through different art and 
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Shepard_Fairey)
 - ### Hank Willis Thomas
 	+ 🎦 [Introduction](https://www.youtube.com/watch?v=7-VPdjwrsko)
-	+ 🖼 *[Truth Booth](https://www.kickstarter.com/projects/1959895010/in-search-of-the-truth-the-truth-booth-us-tour/description)*, video introduction
+	+ 🎦🖼 *[Truth Booth](https://www.kickstarter.com/projects/1959895010/in-search-of-the-truth-the-truth-booth-us-tour/description)*, Kickstarter video
 	+ 🖼 *[Truth Booth](http://insearchofthetruth.net/)*, website
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Hank_Willis_Thomas)
 - ### MAGA - Make America Great Again
@@ -256,7 +254,7 @@ This course takes the student on a historical journey through different art and 
 - ### Dive Deeper
 	+ [Signs of Resistance](https://www.amazon.com/Signs-Resistance-History-Protest-America/dp/1579658660/ref=sr_1_1?dchild=1&keywords=signs+of+resistance&qid=1616121654&sr=8-1), by Bonnie Siegler
 	+ [The Swastika and Symbols of Hate: Extremist Iconography Today](https://www.amazon.com/Swastika-Symbols-Hate-Extremist-Iconography/dp/1621537196/ref=sr_1_1?dchild=1&keywords=the+swastika+symbols+of+hate&qid=1616121765&sr=8-1) by Steven Heller
-	+ RadioLab podcast: [Truth Trolls](https://sva.instructure.com/courses/1630074/pages/optional-listen-truth-trolls?module_item_id=77739233)
+	+ 🎙 RadioLab podcast: [Truth Trolls](https://sva.instructure.com/courses/1630074/pages/optional-listen-truth-trolls?module_item_id=77739233)
 	+ 🎦 [Feels Good Man Documentary](https://www.youtube.com/watch?v=_GjwLS-fgx0)
 
 # Subversion
@@ -266,7 +264,7 @@ This course takes the student on a historical journey through different art and 
 	+ 🎦 [Nate Boyer on suggesting Colin Kaepernick kneel instead of sit during anthem](https://www.youtube.com/watch?v=M87YTo7XsE8&feature=emb_logo)
 	+ 🎦 [ABC News coverage](https://www.youtube.com/watch?v=bBdoDOXMWkg)
 	+ 🎦 [CBS WJZ news coverage](https://www.youtube.com/watch?v=TtW_ymrV2ao&feature=emb_logo)
-	+ 🎦 [Nike Boycott Counter-protest](https://www.youtube.com/watch?v=TtW_ymrV2ao&feature=emb_logo)
+	+ 🎦 [Colin Kaepernick 'Just Do It' Ad Sparks Nike Boycott](https://www.youtube.com/watch?v=cHJHcypw8M4&t=6s)
 	+ 🎦 [How a black power salute at the 1968 Olympics changed two men’s lives](https://www.washingtonpost.com/video/sports/how-a-black-power-salute-at-the-1968-olympics-changed-two-mens-lives/2018/05/27/3162fc76-61da-11e8-81ca-bb14593acaa6_video.html)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Colin_Kaepernick)
 ### Capitalism
@@ -287,8 +285,8 @@ This course takes the student on a historical journey through different art and 
 ### Media
 - #### Abbie Hoffman
 	+ 🖼 [Steal This Book](https://en.wikipedia.org/wiki/Steal_This_Book)
-- #### Network
-	+ 🖼 [Video excerpt](https://www.youtube.com/watch?&v=3HQTNZRmJdg)
+- #### *Network*
+	+ 🖼 [The Tube Lies, excerpt](https://www.youtube.com/watch?&v=3HQTNZRmJdg)
 ### Advertising
 - #### Hank Willis Thomas
 	+  🎦🖼 *[Unbranded](https://www.youtube.com/watch?time_continue=1&v=YdR0GOLF918&feature=emb_logo)*
@@ -347,7 +345,7 @@ This course takes the student on a historical journey through different art and 
 
 # City
 - ### Theaster Gates
-	+ Art 21: [Video introduction](https://art21.org/watch/art-in-the-twenty-first-century/s8/theaster-gates-in-chicago-segment/)
+	+ 🎦 Art 21: [Video introduction](https://art21.org/watch/art-in-the-twenty-first-century/s8/theaster-gates-in-chicago-segment/)
 	+ 🎦 TED Talk: [Theaster Gates: How to revive a neighborhood: with imagination, beauty and art](https://www.youtube.com/watch?v=S9ry1M7JlyE)
 	+ [Rebuild Foundation website](https://www.rebuild-foundation.org/)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Theaster_Gates)
