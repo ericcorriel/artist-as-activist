@@ -27,6 +27,14 @@ This course takes the student on a historical journey through different art and 
 	+ *[On The Impossibility Of Freedom In A Country Founded On Slavery And Genocide performance](https://www.youtube.com/watch?v=rJ1gJjnwWQo)*
 	+ [Dread Scott talking about the performance](https://youtu.be/GOQQe5qad8E?t=4311)
 	+ *[Slave Rebellion Reenactment](https://www.youtube.com/watch?time_continue=1&v=v2to3S0iabE&feature=emb_logo)*
+- [Emma Sulkowicz](https://en.wikipedia.org/wiki/Emma_Sulkowicz)
+	+ [Emma Sulkowicz: "Carry That Weight"](https://www.youtube.com/watch?v=l9hHZbuYVnU)
+	+ Hyperallergic: [Two Weeks Into Performance, Columbia Student Discusses the Weight of Her Mattress](https://hyperallergic.com/149368/two-weeks-into-performance-columbia-student-discusses-the-weight-of-her-mattress/)
+	+ NY Times: [In a Mattress, a Lever for Art and Political Protest](https://www.nytimes.com/2014/09/22/arts/design/in-a-mattress-a-fulcrum-of-art-and-political-protest.html)
+	+ [National Day of Action - Carry That Weight](https://www.youtube.com/watch?v=DmptySkZjbc)
+	+ NY Times: [Accusers and the Accused, Crossing Paths at Columbia University](https://www.nytimes.com/2014/12/22/nyregion/accusers-and-the-accused-crossing-paths-at-columbia.html)
+	+ [Creative Time Summit NYC | Statement: Emma Sulkowicz](https://www.youtube.com/watch?v=1meMY1CBD-U)
+	+ [Did Emma Sulkowicz Get Redpilled? At the very least, she’s found a new social set](https://www.thecut.com/2019/10/did-emma-sulkowicz-mattress-performance-get-redpilled.html)
 	
 
 ## Week 3: Street Art
@@ -39,6 +47,10 @@ This course takes the student on a historical journey through different art and 
 	+ [Introduction](https://www.youtube.com/watch?v=g4AVohUid7c&feature=emb_logo)
 	+ *[3 Weeks in May](https://www.youtube.com/watch?v=ie7A8F0D-k4&feature=emb_logo)*
 	+ *[ Between the Door and The Street](https://www.youtube.com/watch?v=TDVd09s4ylY&feature=emb_logo)*
+- [Guerrilla Girls](https://en.wikipedia.org/wiki/Guerrilla_Girls)
+	+ [Video introduction](https://www.youtube.com/watch?time_continue=1&v=8uKg7hb2yoo&feature=emb_logo)
+	+ [Poster-based work on Google Images](https://www.google.com/search?q=guerilla+girls&tbm=isch&ved=2ahUKEwj27s78iZHwAhVVjeAKHfNjDnYQ2-cCegQIABAA&oq=guerilla+girls&gs_lcp=CgNpbWcQA1AAWABg3uH1JWgAcAB4AIABAIgBAJIBAJgBAKoBC2d3cy13aXotaW1n&sclient=img&ei=BASBYPbcNtWaggfzx7mwBw)
+	+ [The Guerrilla Girls' Guide to Behaving Badly](https://www.youtube.com/watch?v=8j6Pa9ZdW4Q)
 - [#whyididntreport by SVA students Ha Jung Song and Bowook Yoon
 ](https://www.instagram.com/whyididntreport/?hl=en)
 - [George Floyd Murals](https://www.google.com/search?tbm=isch&q=george+floyd+mural) and their [defacement](https://www.google.com/search?q=george+floyd+mural+defaced&tbm=isch&ved=2ahUKEwiU7t-u29j1AhXer3IEHcH_BCQQ2-cCegQIABAA&oq=george+floyd+mural+def&gs_lcp=CgNpbWcQARgAMgUIABCABDoHCCMQ7wMQJzoECAAQQ1CUBFi_CGDTEWgAcAB4AIABaIgB-AKSAQM0LjGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=Kx72YdSsEd7fytMPwf-ToAI)
@@ -63,6 +75,9 @@ This course takes the student on a historical journey through different art and 
 	- *[7 forms measuring 600 × 60 × 60cm constructed to be held horizontal to a wall](https://kaldorartprojects.org.au/projects/project-22-santiago-sierra/)*
 	- *[LA QUEMA DEL NINOT](https://vimeo.com/467295191)*
 	- *[A protest against the banalisation of the Holocaust](https://www.theguardian.com/world/2006/mar/14/arts.secondworldwar)*
+- [Dread Scott](https://en.wikipedia.org/wiki/Dread_Scott)
+	+ [What is the Proper Way to Display a U.S. Flag?](https://www.dreadscott.net/portfolio_page/what-is-the-proper-way-to-display-a-us-flag/)
+	+ [How art can shape America's conversation about freedom](https://www.youtube.com/watch?v=z1r1ugmDxjk)
 - [Chris Ofilli](https://en.wikipedia.org/wiki/Chris_Ofili)
 	- *[The Holy Virgin Mary](https://www.youtube.com/watch?v=m8buBeJuB7s&)*
 	- [Chris Ofilli, The Holy Virgin Mary by Dr. Allison Young](https://smarthistory.org/chris-ofili-the-holy-virgin-mary/)
@@ -237,6 +252,37 @@ This course takes the student on a historical journey through different art and 
 	+ [Read all or parts of “Steal this Book” by Abbie Hoffman](https://semantikon.com/StealThisBookbyAbbieHoffman.pdf)
 	+ [Watch The Trial of the Chicago 7 on Netflix, which details the phase in Abbie Hoffman’s life before he wrote “Steal this Book”](https://www.netflix.com/title/81043755?source=35)
 
+##Week 12: Destruction
+- [Mary Richardson](https://en.wikipedia.org/wiki/Mary_Richardson)
+	- [In 1914, a Feminist Attacked a Velázquez Nude with a Meat Cleaver](https://www.artsy.net/article/artsy-editorial-1914-feminist-attacked-velazquez-nude-meat-cleaver)
+- [Ai Weiwei](https://en.wikipedia.org/wiki/Ai_Weiwei)
+	- [Dropping a Han Dynasty Urn](https://www.google.com/search?tbm=isch&q=Dropping+a+Han+Dynasty+Urn)
+	- [Han Dynasty Urn with Coca-Cola Logo](https://www.google.com/search?tbm=isch&q=Han+Dynasty+Urn+with+Coca-Cola+Logo)
+	- [Maximo Caminero Drops an Ai Weiwei Han Dynasty Urn](https://www.youtube.com/watch?v=Ia6oVc2c7V8&feature=emb_logo)
+- [Yoko Ono](https://en.wikipedia.org/wiki/Yoko_Ono)
+	- [Introduction](https://www.youtube.com/watch?v=KoU0E_ab36Q)
+	- [Cut Piece](https://www.youtube.com/watch?v=Zfe2qhI5Ix4&feature=emb_logo)
+- [Marina Abramovic](https://en.wikipedia.org/wiki/Marina_Abramovi%C4%87)
+	- [Rythem 0](https://www.youtube.com/watch?v=xTBkbseXfOQ)
+	- [Life and Works](https://www.youtube.com/watch?v=CY37mlv2AYg)
+- [Chris Burden](https://en.wikipedia.org/wiki/Chris_Burden)
+	- [Shoot](https://www.youtube.com/watch?v=drZIWs3Dl1k&feature=emb_logo)
+	- [Burden](https://www.youtube.com/watch?v=sTfXxjoBzHk)
+- [Greenpeace](https://en.wikipedia.org/wiki/Greenpeace)
+	- [Introduction](https://www.youtube.com/watch?v=zVu9eawb1QY)
+	- [G8 Don't Drown Venice action](https://www.youtube.com/watch?v=BeHOHf2q0ao&feature=emb_logo)
+	- [Peru Is Indignant After Greenpeace Makes Its Mark on Ancient Site](https://www.nytimes.com/2014/12/13/world/americas/peru-is-indignant-after-greenpeace-makes-its-mark-on-ancient-site.html)
+- [Indecline](https://en.wikipedia.org/wiki/Indecline)
+	- [Introduction](https://www.youtube.com/watch?v=d_hegqlXOG4&feature=emb_logo)
+	- [Hollywood Walk of Fame](https://www.youtube.com/watch?v=csREW5piyvg&feature=emb_logo)
+	- [The Show Must Go On](https://www.youtube.com/watch?v=7yOci1MmOc0)
+	- [Shoot Cops](https://www.youtube.com/watch?v=OeAfsWSsYYo&feature=emb_logo)
+- [King Leopold II Memorial](https://en.wikipedia.org/wiki/King_Leopold_II_statue_(Ostend))
+	- [Reappearance of statue's missing hand reignites colonial row](https://www.theguardian.com/world/2019/feb/22/statue-missing-hand-colonial-belgium-leopold-congo)
+- Dive Deeper
+	- Indecline: [The Art of Protest](https://www.rollingstone.com/culture/culture-news/indecline-documentary-art-of-protest-resistance-1074196/)
+	- Wikipedia: [Vandalism of Art](https://en.wikipedia.org/wiki/Vandalism_of_art)
+	- Chris Burden documentary, [Burden](https://www.youtube.com/watch?v=sTfXxjoBzHk)
 
 ## Week 13: City
 - [Theaster Gates](https://en.wikipedia.org/wiki/Theaster_Gates)
@@ -261,4 +307,39 @@ This course takes the student on a historical journey through different art and 
 	+ Watch [“Dammi i colori”](https://www.youtube.com/watch?v=-Zo8PHSsTZM) by Albanian artist Anri Sala, a video that documents the changes Tirana underwent, which is now in the Tate’s permanent collection (15’24”)
 	+ Watch [Theaster Gates’ TED talk](https://www.youtube.com/watch?v=S9ry1M7JlyE) on how to revive a neighborhood (16’56”)
 
+
+## Week 14: Satire
+- [The Yes Men](https://en.wikipedia.org/wiki/The_Yes_Men)
+	+ Introduction [The Yes Men Are Revolting, trailer](https://www.youtube.com/watch?v=8tSEjepPNgc)
+	+ [Bhopal Disaster - BBC](https://www.youtube.com/watch?v=LiWlvBro9eI)
+	+ Aftermath: [Bhopal Disaster - Channel 4/BBC](https://www.youtube.com/watch?v=xXSpyZCRIjU)
+	+ [The Yes Men Fix the US Chamber of Commerce](https://www.youtube.com/watch?v=D67LYEacBoE)
+	+ Aftermath: [The Yes Men vs. the U.S. Chamber of Commerce](https://www.youtube.com/watch?v=D67LYEacBoE)
+- [Sacha Baron Cohen](https://en.wikipedia.org/wiki/Sacha_Baron_Cohen)
+	+ [Who Is America, trailer](https://www.youtube.com/watch?v=DNheVe2zh8w)
+	+ [Kinder Guardians](https://www.youtube.com/watch?v=QkXeMoBPSDk&t=317s)
+	+ [Joe Walsh explains how he was pranked by Sacha Baron Cohen](https://www.youtube.com/watch?v=Z9LjwRRO9fk)
+	+ [Mosque proposal in Kingman, AZ](https://www.youtube.com/watch?v=5I2dhXdwfX0)
+	+ Washington Post: [Sacha Baron Cohen made an Arizona town seem racist. The Kingman mayor is taking it seriously](https://www.washingtonpost.com/news/post-nation/wp/2018/07/25/sacha-baron-cohen-made-an-arizona-town-seem-racist-now-officials-are-promising-change/)
+	+ [Brüno mexican furniture scene with Paula Abdul](https://www.youtube.com/watch?v=4SRqjZa_aoo)
+	+ [Paula Abdul's reaction](https://www.youtube.com/watch?v=ybm7UTozXU8)
+	+ [This is America: Jason Spencer ](https://www.youtube.com/watch?&v=4k4pMTsa1Kw)
+	+ [Georgia lawmaker who came under fire after yelling ‘n-word’ on ‘Who Is America?’ says he’ll quit](https://www.cnn.com/2018/07/25/entertainment/jason-spencer-who-is-america-resigns)
+- [Reverend Billy and the Church of Stop Shopping](https://en.wikipedia.org/wiki/Reverend_Billy_and_the_Church_of_Stop_Shopping)
+	+ [The Shopocalypse](https://www.youtube.com/watch?v=4wxjl2ERhnI)
+	+ [Start to Stop Shopping: Rev. Billy Black Friday 2008](https://www.youtube.com/watch?v=N6iJ40O9CLc&t=2s)
+	+ [UBS Protest & Arrest Black Friday 2010](https://www.youtube.com/watch?v=dhMgfWhUICs)
+	+ [BP Oil Spill & Reverend Billy Inside the British Museum](https://www.youtube.com/watch?v=pWpqZ4L2x_A)
+	+ [Reverend Billy & The StopShopping Choir YouTube channel](https://www.youtube.com/user/reverendbillytalen/videos)
+- [Steve Lambert](https://en.wikipedia.org/wiki/Steve_Lambert)
+	+ [New York Times Special Edition Video News Release - Nov. 12, 2008](https://vimeo.com/2215007)
+	+ [Steve Lambert and Andy Bichlbaum on CNN about NYT Special Edition](https://vimeo.com/16232850)
+	+ [New York Times: Special Edition (archived)](https://web.archive.org/web/20210815042928/http://nytimes-se.com/)
+	+ [Capitalism Works For Me! True/False](https://www.youtube.com/watch?v=spR8q4iY9xc)
+	+ [What do people say about capitalism in Times Square?](https://vimeo.com/75214858)
+- Dive Deeper
+	+ Watch [The Yes Men Are Revolting,](https://www.youtube.com/watch?v=8tSEjepPNgc) a documentary on the last few years of their work
+	+ Watch Cohen’s series [“Who is America.”](https://www.sho.com/who-is-america)
+	+ Watch [Cohen's speech](https://www.youtube.com/watch?v=ymaWq5yZIYM) (24’43”) at the Anti-Defamation League criticizing Silicon Valley elites such as Mark Zuckerberg and Jack Dorsey for the harm their social media products have brought to society.
+	+ Watch [“What Would Jesus Buy,”](https://www.youtube.com/watch?v=mAxuNdtZt7c) Reverend Billy and the Stop Shopping Choir’s full length movie and their attempt to avert the “Shopocalypse”
 
