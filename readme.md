@@ -2,7 +2,7 @@
 
 This course takes the student on a historical journey through different art and activism movements starting in the 19th Century with women fighting for the right to vote and ending with the Black Lives Matter movement of the recent past. We will examine various creative avenues by which artists strive to bring about social change–performance art, street art, tech art, participatory art, controversial art, subversive art. Significant attention will be paid to understanding the dynamic between the artist, the work, the media, and the public’s perception of the work. In conjunction with this historical survey, students will also create activist work for a “real-life” non-profit organization chosen by the instructor. This course functions as both historical survey and contemporary workshop with the ultimate aim of giving students the knowledge and experience they need to direct their creative practice towards supporting causes of their choosing.
 
-## Activism in the 19th Century, A Historical Example: The Suffragettes
+# Activism in the 19th Century, A Historical Example: The Suffragettes
 ### Movements
 - [Women's suffrage movement in the United Kingdom](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_Kingdom)
 - [Women's suffrage movement in the United States](https://en.wikipedia.org/wiki/Women%27s_suffrage_in_the_United_States)
@@ -17,7 +17,7 @@ This course takes the student on a historical journey through different art and 
 - [Women's Suffrage Parade of 1913](https://www.theatlantic.com/photo/2013/03/100-years-ago-the-1913-womens-suffrage-parade/100465/)
 
 
-## Performance
+# Performance
 - ### Nick Cave
 	+ 🎦 Art 21: [Sound Suits](https://art21.org/watch/extended-play/nick-cave-thick-skin-short/)
 	+ 🎦 Great Big Story: [How Police Brutality Inspired These Works of Art](https://www.youtube.com/watch?time_continue=6&v=zDx99Ljo6YE&feature=emb_logo)
@@ -44,7 +44,7 @@ This course takes the student on a historical journey through different art and 
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Emma_Sulkowicz)
 	
 
-## Street Art
+# Street Art
 - ### Banksy
 	+ 🎦🖼 [Introduction](https://www.youtube.com/v=sSsjC-F9bwk&feature=emb_logo)
 	+ 🎦🖼 [Interventions on the wall separating Israel and Palenstine on the West Bank](https://www.youtube.com/watch?time_continue=12&v=Ag-iTSQnigY&feature=emb_logo)
@@ -78,7 +78,7 @@ This course takes the student on a historical journey through different art and 
 	- 🎦 *[Exit Through The Gift Shop](https://www.youtube.com/watch?v=0ViUZzp6zgM)*
 
 
-## Controversy
+# Controversy
 - ### Andres Serrano
 	- 🎦 [Introduction](https://www.youtube.com/watch?v=bAG3nGyISe0)
 	- 🎦🖼 *[Piss Christ](https://www.youtube.com/watch?v=LNJIloJiBKE&)*
@@ -130,7 +130,7 @@ This course takes the student on a historical journey through different art and 
 	- Ai Weiwei documentaries *[Never Sorry](https://www.youtube.com/watch?v=WIdlt3j9nKA)* and *[The Fake Case](https://www.youtube.com/watch?v=tBhuMF-LczA)*
 	- The Start podcast: [Ai Weiwei on how he got his start](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast)
 
-## Technology
+# Technology
 - ### Forensic Architecture
 	- 🎦 [Introduction](https://www.youtube.com/watch?v=ehvtpGzF1r4&feature=emb_logo)
 	- 🎦🖼 *[Analysis of Tear Gas in Plaza de La Dignidad I](https://vimeo.com/492560553)*
@@ -162,7 +162,7 @@ This course takes the student on a historical journey through different art and 
 	- The New Inquiry: [Invisible Images (Your Pictures Are Looking at You), by Trevor Paglen](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
 	- Leaders in Software and Art: [Presenters list](http://www.softwareandart.com/presenters/)
 	
-## Historical Monuments
+# Historical Monuments
 - ### United Daughters of the Confederacy
 	- 🎦 [Introduction](https://www.youtube.com/watch?v=dOkFXPblLpU)
 	- [List of Confederate monuments and memorials](https://en.wikipedia.org/wiki/List_of_Confederate_monuments_and_memorials?wprov=srpw1_0)
@@ -184,7 +184,7 @@ This course takes the student on a historical journey through different art and 
 	- 🎦 [Mayor Mitch Landeau, "We Must Recognize Significance Of Removing Confederate Monuments"](https://www.youtube.com/watch?v=j81MkNgnXuY&t=388s)	
 	- 🎦 Watch feature film *[Glory](https://www.youtube.com/watch?v=Ny8KGUqTNkM)*
 	
-## Contemporary Monuments
+# Contemporary Monuments
 - ### Paul Ramírez Jonas
 	+ 🎦 [Introduction](https://www.youtube.com/watch?time_continue=1&v=W-oJL5i4hXc)
 	+ 🖼 *[Publicar](http://www.paulramirezjonas.com/selected/new_index.php#20&30_2009&sub206&06_Publicar%20I,%20II,%20III)*
@@ -215,7 +215,7 @@ This course takes the student on a historical journey through different art and 
 	+ Podcast: [Monument Lab](https://podcasts.apple.com/us/podcast/monument-lab/id1437302452)
 	+ New York Times: [For Three Suffragists, a Monument Well Past Due](https://www.nytimes.com/2020/08/06/arts/design/suffragist-19th-amendment-central-park.html)
 	
-## Participation
+# Participation
 - ### Shepard Fairey
 	+ 🎦 [Introduction](https://www.youtube.com/watch?&v=rcSBr4ZKmrQ)
 	+ [Where it [OBEY] all started](http://thegiant.org/wiki/index.php/Stickers)
@@ -240,7 +240,7 @@ This course takes the student on a historical journey through different art and 
 	+ 🎦🖼 *[AIDS Quilt](https://www.youtube.com/watch?time_continue=3&v=OMJQ3kQqNI4&feature=emb_logo)*
 	+ 🎦🖼 *[In America](https://news.artnet.com/art-world/suzanne-brennan-firstenberg-covid-flag-project-2016290)*, [Susanne Brennan Firstenberg](https://en.wikipedia.org/wiki/Suzanne_Brennan_Firstenberg)
 	
-## Propaganda, Symbols, and Trolls
+# Propaganda, Symbols, and Trolls
 - ### Propaganda
 	+ 🎦 [Introduction to Propaganda](https://www.youtube.com/watch?v=-WpFzTplp28)
 	+ 🎦 [History of the Swastika](https://www.youtube.com/watch?v=tuB2L6SN6Lg)
@@ -259,7 +259,7 @@ This course takes the student on a historical journey through different art and 
 	+ RadioLab podcast: [Truth Trolls](https://sva.instructure.com/courses/1630074/pages/optional-listen-truth-trolls?module_item_id=77739233)
 	+ 🎦 [Feels Good Man Documentary](https://www.youtube.com/watch?v=_GjwLS-fgx0)
 
-## Subversion
+# Subversion
 ### Sports
 - #### Colin Kaepernick
 	+ New York Times: [Eric Reed: Why Colin Kaepernick and I Decided to Take a Knee](https://www.nytimes.com/2017/09/25/opinion/colin-kaepernick-football-protests.html)
@@ -305,7 +305,7 @@ This course takes the student on a historical journey through different art and 
 + [Read all or parts of *Steal this Book* by Abbie Hoffman](https://semantikon.com/StealThisBookbyAbbieHoffman.pdf)
 
 
-## Destruction
+# Destruction
 - ### Mary Richardson
 	- [In 1914, a Feminist Attacked a Velázquez Nude with a Meat Cleaver](https://www.artsy.net/article/artsy-editorial-1914-feminist-attacked-velazquez-nude-meat-cleaver)
 	- [Wikipedia](https://en.wikipedia.org/wiki/Mary_Richardson)
@@ -345,7 +345,7 @@ This course takes the student on a historical journey through different art and 
 	- 🎦 Chris Burden documentary, [Burden](https://www.youtube.com/watch?v=sTfXxjoBzHk)
 	- Wikipedia: [Vandalism of Art](https://en.wikipedia.org/wiki/Vandalism_of_art)
 
-## City
+# City
 - ### Theaster Gates
 	+ Art 21: [Video introduction](https://art21.org/watch/art-in-the-twenty-first-century/s8/theaster-gates-in-chicago-segment/)
 	+ 🎦 TED Talk: [Theaster Gates: How to revive a neighborhood: with imagination, beauty and art](https://www.youtube.com/watch?v=S9ry1M7JlyE)
@@ -374,7 +374,7 @@ This course takes the student on a historical journey through different art and 
 	+ 🎦 Watch [Theaster Gates’ TED talk](https://www.youtube.com/watch?v=S9ry1M7JlyE) on how to revive a neighborhood (16’56”)
 
 
-## Satire
+# Satire
 - ### The Yes Men
 	+ 🎦 [*The Yes Men Are Revolting,* trailer](https://www.youtube.com/watch?v=8tSEjepPNgc)
 	+ 🎦🖼 [Bhopal Disaster - BBC](https://www.youtube.com/watch?v=LiWlvBro9eI)
