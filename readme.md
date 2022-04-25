@@ -298,8 +298,10 @@ This course takes the student on a historical journey through different art and 
 	+ 🎦 [Introduction](https://www.youtube.com/watch?v=21iVQ0iXs00&feature=emb_logo)
 	+ 🖼 [Poster Boy images](https://www.flickr.com/photos/posterboynyc)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Poster_Boy_(street_artist))
+
 ### Dive Deeper
-	+ 🎦 [Watch Network, 1976 Best Picture Oscar winner](https://www.youtube.com/watch?v=bDzr4BaNU-A)
+	+ 🎦 [Watch *The Trial of The Chicago 7* on Netflix](https://www.netflix.com/title/81043755?source=35), which details the phase in Abbie Hoffman’s life before he wrote *Steal this Book*
+	+ [Read all or parts of “Steal this Book” by Abbie Hoffman](https://semantikon.com/StealThisBookbyAbbieHoffman.pdf)
 
 
 ## Destruction
