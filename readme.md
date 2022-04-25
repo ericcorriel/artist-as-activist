@@ -72,10 +72,10 @@ This course takes the student on a historical journey through different art and 
 	+ [And its defacement](https://www.youtube.com/watch?v=-odNB4FgIu4)
 	+ [Wikipedia](https://en.wikipedia.org/wiki/Robert_E._Lee_Monument_(Richmond,_Virginia))
 - ### Dive Deeper
-	- 🎦 [Style Wars (1983)](https://www.youtube.com/watch?v=f9KxbaSU-Eo)
-	- 🎦🖼 [Subway Therapy](https://www.youtube.com/watch?v=Fj2sJioplnU)
+	- 🎦 [*Style Wars* (1983)](https://www.youtube.com/watch?v=f9KxbaSU-Eo)
+	- 🎦🖼 *[Subway Therapy](https://www.youtube.com/watch?v=Fj2sJioplnU)*
 	- 🎦🖼 [Black Lives Matter protesters project onto the Robert E. Lee monument](https://www.youtube.com/watch?v=Pmk29gVfBpI)
-	- 🎦 [Exit Through The Gift Shop](https://www.youtube.com/watch?v=0ViUZzp6zgM)
+	- 🎦 *[Exit Through The Gift Shop](https://www.youtube.com/watch?v=0ViUZzp6zgM)*
 
 
 ## Controversy
@@ -110,13 +110,13 @@ This course takes the student on a historical journey through different art and 
 		- 🖼 Installation: *[Straight](https://www.designboom.com/art/ai-weiwei-straightens-150-tons-of-steel-rebar-from-sichuan-quake/)*
 		- 🖼 Installation: *[Remembering](https://publicdelivery.org/ai-weiwei-remembering-haus-der-kunst-muenchen-2009/)*
 	- The Guardian: [Ai Weiwei: The artwork that made me the most dangerous person in China](https://www.theguardian.com/artanddesign/2018/feb/15/ai-weiwei-remembering-sichuan-earthquake)
-	- 🎦 *[Never Sorry* [trailer]](https://www.youtube.com/watch?v=0MYFOzP6Xns)
-	- 🎦 *[The Fake Case* [trailer]](https://www.youtube.com/watch?v=l62d9Ls7fls)
+	- 🎦 [*Never Sorry* [trailer]](https://www.youtube.com/watch?v=0MYFOzP6Xns)
+	- 🎦 [*The Fake Case* [trailer]](https://www.youtube.com/watch?v=l62d9Ls7fls)
 	- [Wikipedia](https://en.wikipedia.org/wiki/Ai_Wei_Wei)
 - ### Dana Schutz
 	- 🎦 [Introduction](https://www.youtube.com/watch?v=K9eR-04teD4)
 	- 🎦 [Aug. 28, 1955 - Emmett Till, Age 14, Abducted and Murdered](https://www.youtube.com/watch?v=SYiI7j6GW68)
-	- *[Open Casket](https://en.wikipedia.org/wiki/Open_Casket)*
+	- 🖼 *[Open Casket](https://en.wikipedia.org/wiki/Open_Casket)*
 	- 🎦 Vice News: [Interview with Parker Bright](https://video.vice.com/en_in/video/a-painting-of-emmett-tills-mangled-body-has-become-the-center-of-a-heated-debate/58dabbab91d237b4148aa34f)
 	- [Artist Hannah Black's Open Letter to Whitney Museum demanding the removal and destruction of Open Casket](https://www.artnews.com/artnews/news/the-painting-must-go-hannah-black-pens-open-letter-to-the-whitney-about-controversial-biennial-work-7992/)
 	- [Open Letter to ICA Boston in support of exhibiting Open Casket](https://artreview.com/news-4-aug-2017-open-letter-in-defence-of-dana-schutz/)
@@ -126,7 +126,7 @@ This course takes the student on a historical journey through different art and 
 	- [National Endowment for the Arts: Controversies in Free Speech](https://ncac.org/resource/national-endowment-for-the-arts-controversies-in-free-speech)
 	- The Washington Post: [Behind the right’s loathing of the NEA: Two ‘despicable’ exhibits almost 30 years ago](https://www.washingtonpost.com/news/morning-mix/wp/2017/03/20/behind-the-loathing-of-the-national-endowment-for-the-arts-a-pair-of-despicable-exhibits-almost-30-years-ago/)
 	- The Washington Times: [Life without the arts? Top 10 crazy grants given by the NEA and NEH](https://www.washingtontimes.com/news/2017/mar/17/life-without-arts-10-crazy-grants-given-nea-neh/)
-	- BBC Documentary: [How Santiago Sierra approaches art making](https://vimeo.com/41418219)
+	- 🎦 BBC Documentary: [How Santiago Sierra approaches art making](https://vimeo.com/41418219)
 	- Ai Weiwei documentaries *[Never Sorry](https://www.youtube.com/watch?v=WIdlt3j9nKA)* and *[The Fake Case](https://www.youtube.com/watch?v=tBhuMF-LczA)*
 	- The Start Podcast: [Ai Weiwei on how he got his start](https://www.theguardian.com/artanddesign/audio/2018/feb/15/ai-weiwei-on-project-political-voice-sichuan-earthquake-the-start-podcast)
 
