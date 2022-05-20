@@ -63,7 +63,7 @@ This course takes the student on a historical journey through different art and 
 	+ 🎦 [On the ground footage of Palestine where some of Banksy's work is](https://www.youtube.com/watch?time_continue=1&v=kgzyOAqwHjI&feature=emb_logo)
 	+ 🎦 [From Palenstine to the art markets of New York](https://www.youtube.com/watch?v=Ki0ayi4RV10&t=2s)
 	+ 📖 [Wikipedia](https://en.wikipedia.org/wiki/Banksy)
-- ### Suzanne Lacey
+- ### Suzanne Lacy
 	+ 🎦 [Introduction](https://www.youtube.com/watch?v=g4AVohUid7c&feature=emb_logo)
 	+ 🎦🖼 *[3 Weeks in May](https://www.youtube.com/watch?v=ie7A8F0D-k4&feature=emb_logo)*
 	+ 🎦🖼 *[Between the Door and The Street](https://www.youtube.com/watch?v=TDVd09s4ylY&feature=emb_logo)*
