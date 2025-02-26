@@ -209,7 +209,7 @@ This course takes the student on a historical journey through different art and 
 	+ 📖 [Wikipedia](https://en.wikipedia.org/wiki/Paul_Ramirez_Jonas)
 - ### Krzysztof Wodiczko
 	+ 🎦🖼 *[Monument for the living](https://www.youtube.com/watch?time_continue=1&v=2vI703H5RSM&feature=emb_logo)*
-	+ 🎦🖼 *[Homeless](https://www.youtube.com/watch?time_continue=1&v=QSsXLHB9Pd8&feature=emb_logo)*
+	+ 🎦🖼 *[Bunker Hill, Hiroshima, and The Tijuana Projection](https://www.youtube.com/watch?v=QfRMlN2RmPU&t=186s)*
 	+ 📖 [Wikipedia](https://en.wikipedia.org/wiki/Krzysztof_Wodiczko)
 - ### Khinde Wiley
 	+ 🎦🖼 [*Rumors of War* [sculpture]](https://www.youtube.com/watch?v=HhHq73olXGw)
