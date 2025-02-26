@@ -129,7 +129,7 @@ This course takes the student on a historical journey through different art and 
 	- 🎦 [Introduction](https://www.youtube.com/watch?v=K9eR-04teD4)
 	- 🎦 [Emmett Till, Age 14, Abducted and Murdered, Aug. 28, 1955](https://www.youtube.com/watch?v=SYiI7j6GW68)
 	- 🖼 *[Open Casket](https://en.wikipedia.org/wiki/Open_Casket)*
-	- 🎦 Vice News: [Interview with Parker Bright](https://video.vice.com/en_in/video/a-painting-of-emmett-tills-mangled-body-has-become-the-center-of-a-heated-debate/58dabbab91d237b4148aa34f)
+	- 🎦 Vice News: [Interview with Parker Bright](https://www.youtube.com/watch?v=wBV0ZW22hug&t=1010s)
 	- 📖 [Artist Hannah Black's Open Letter to Whitney Museum demanding the removal and destruction of *Open Casket*](https://www.artnews.com/artnews/news/the-painting-must-go-hannah-black-pens-open-letter-to-the-whitney-about-controversial-biennial-work-7992/)
 	- 📖 [Open Letter to ICA Boston in support of exhibiting Open Casket](https://artreview.com/news-4-aug-2017-open-letter-in-defence-of-dana-schutz/)
 	- 📖 Schutz responds in [Art News](https://news.artnet.com/art-world/dana-schutz-responds-to-the-uproar-over-her-emmett-till-painting-900674) and the [New York Times](https://www.nytimes.com/2017/03/21/arts/design/painting-of-emmett-till-at-whitney-biennial-draws-protests.html?_r=0)
@@ -203,9 +203,9 @@ This course takes the student on a historical journey through different art and 
 # Contemporary Monuments
 - ### Paul Ramírez Jonas
 	+ 🎦 [Introduction](https://www.youtube.com/watch?time_continue=1&v=W-oJL5i4hXc)
-	+ 🖼 *[Publicar](http://www.paulramirezjonas.com/selected/new_index.php#20&30_2009&sub206&06_Publicar%20I,%20II,%20III)*
-	+ 🖼 *[The Commons](http://www.paulramirezjonas.com/selected/new_index.php#22&32_2011&sub221&01_The%20Commons)*
-	+ 🖼 *[Public Trust](http://www.paulramirezjonas.com/selected/new_index.php#31&41_2020&sub314&04_Public%20Trust%20(Cleveland))*
+	+ 🖼 *[Publicar](https://paulramirezjonas.com/Publicar)*
+	+ 🖼 *[The Commons](https://paulramirezjonas.com/The-Commons)*
+	+ 🖼 *[Public Trust](https://paulramirezjonas.com/public-trust-1)*
 	+ 📖 [Wikipedia](https://en.wikipedia.org/wiki/Paul_Ramirez_Jonas)
 - ### Krzysztof Wodiczko
 	+ 🎦🖼 *[Monument for the living](https://www.youtube.com/watch?time_continue=1&v=2vI703H5RSM&feature=emb_logo)*
